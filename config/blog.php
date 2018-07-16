@@ -16,8 +16,8 @@ return [
 
     // Meta
     'meta' => [
-        'keywords' => 'PJ Blog,blog,pigjian,laravel,vuejs',
-        'description' => 'Nothing is impossible in PJ Blog'
+        'keywords' => '沏一壶茶,赵云十八般,c,c++,java,golang,python,php,ruby,nodejs',
+        'description' => '譬如朝露，去日苦多'
     ],
 
     // Social Share
@@ -36,8 +36,8 @@ return [
 
     // Article Page
     'article' => [
-        'title'       => 'Nothing is impossible.',
-        'description' => 'https://pigjian.com',
+        'title'       => '譬如朝露，去日苦多',
+        'description' => 'https://qiyihucha.com',
         'number'      => 15,
         'sort'        => 'desc',
         'sortColumn'  => 'published_at',
@@ -54,15 +54,15 @@ return [
     'footer' => [
         'github' => [
             'open' => true,
-            'url'  => 'https://github.com/jcc',
+            'url'  => 'https://github.com/cyjdlxd',
         ],
         'twitter' => [
-            'open' => true,
-            'url'  => 'https://twitter.com/pigjian'
+            'open' => false,
+            'url'  => 'https://twitter.com/cyjdlxd'
         ],
-        'meta' => '© PJ Blog 2016. Powered By Jiajian Chan',
+        'meta' => '© 沏一壶茶 2018. Powered By zhaoyunshibaban',
     ],
 
-    'license' => 'Powered By Jiajian Chan.<br/>This article is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.',
+    'license' => '原创文章，转载请注明出处.',
 
 ];
